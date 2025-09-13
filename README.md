@@ -63,3 +63,6 @@ Notas:
 
 O projeto não usa bibliotecas externas do Java
 A execução é rápida e mostra o resultado completo no console
+
+
+AVISO: Esse código foi utilizado inteligência artificial para auxilio
