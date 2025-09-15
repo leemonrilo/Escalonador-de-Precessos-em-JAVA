@@ -1,7 +1,4 @@
-/**
- * Implementação customizada de lista ligada para processos
- * Não utiliza estruturas de dados prontas do Java
- */
+// Implementação customizada de lista ligada para processos
 public class ListaDeProcessos {
     private No inicio;
     private No fim;
@@ -76,7 +73,7 @@ public class ListaDeProcessos {
         return sb.toString();
     }
 
-    // Retorna o primeiro processo sem removê-lo
+    // Retorna o primeiro processo sem remover o mesmo
     public Processo obterPrimeiro() {
         if (inicio == null) {
             return null;
