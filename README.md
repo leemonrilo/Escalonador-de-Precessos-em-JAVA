@@ -21,7 +21,7 @@ Como executar o projeto iCEVOS na IDEA
 Passo a Passo:
 
 Abrir o Projeto na IDEA(Vscode ou IntelliJ de preferência)
-Abra o IntelliJ IDEA
+Abra o IntelliJ ou Vscode IDEA
 Clique em "Open" e selecione a pasta raiz do projeto (que contém as pastas src/, config/ e examples/)
 Aguarde o IntelliJ indexar o projeto
 Configurar a Classe Principal
